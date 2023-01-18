@@ -1,0 +1,693 @@
+0,Villa in Agios Georgios,Corfu Villa near sandy beach with pool and views,8 beds,Jun 10 – 15,5.0,9,307
+1,Villa in Sidari,Beach Villa Verano with private pool,8 beds,Jun 10 – 15,4.9,10,451
+2,Villa in Barbati,"Korypho Villa ""West""",6 beds,Jun 5 – 12,5.0,13,593
+3,Apartment in Kerkira,Lilliput Studio Corfu Old Town,1 double bed,Jun 1 – 6,4.9,115,90
+4,Apartment in Acharavi,Sea & Sun Beach apartments - Upper floor 'Sun',4 beds,Jun 1 – 6,4.86,14,187
+5,Home in Agios Stefanos,Villa Yiannitsis  Sunset By The Sea,3 beds,Jun 25 – 30,5.0,28,235
+6,Earthen home in Corfu,Villa Melina,3 beds,Jun 15 – 20,4.93,30,353
+7,Villa in Agnitsini,Folitsa Villa in Agnítsini  Corfu,1 bed,Jun 9 – 14,5.0,11,130
+8,Villa in Corfu,Stunning 4 Bedroom Sea View Luxury Villa in Sinies,5 beds,Jun 10 – 17,4.88,8,460
+9,Villa in Corfu,Stunning 3 Bedroom Sea View Luxury Villa in Sinies,4 beds,Jun 10 – 17,4.94,62,382
+10,Cottage in Kavallerena,Vista Mare Assinia: Amazing views and pool  A/C,5 beds,Jun 7 – 12,4.65,26,360
+11,Villa in Agni  Gimari,Villa Regina: Above Agni  superb views and pool,7 beds,Jun 16 – 21,4.83,40,286
+12,Villa in Kassiopi,Thea Estate,6 beds,Jun 18 – 24,4.78,9,404
+13,Cottage in corfu,Eden Villa's corner of paradise,1 king bed,Jun 6 – 11,4.96,52,177
+14,Villa in Corfu,Villa ALGEOS suspended between sky and blue sea,8 king beds,Jun 21 – 26,4.9,30,694
+15,Home in Corfu,Yalos Beach House Corfu,7 beds,Jun 1 – 6,4.93,29,247
+16,Apartment in Corfu,Cozy apartment in the heart of the historic center,2 double beds,Jun 26 – Jul 1,4.19,32,63
+17,Private room in Mesoggi,Galini Beach Studios (Sea View),1 bed,Jun 5 – 12,4.98,42,83
+18,Villa in Nisaki,Kefalaki: Superb sceneries and views  private pool,5 beds,Jun 10 – 15,4.7,10,264
+19,Apartment in Corfu,City walls sea view,3 beds,Jun 26 – Jul 1,4.99,95,130
+20,Villa in Agios Ioannis,Villa Lydia,5 beds,Jun 29 – Jul 4,5.0,29,261
+21,Apartment in Corfu,Apartment at the historical center!!,2 double beds,Jun 26 – Jul 1,4.79,176,83
+22,Cottage in Dassia,The Wild Cyclamen stone house and estate,1 king bed,Jun 19 – 26,5.0,34,106
+23,Home in Corfu,Angel's House,1 king bed,Jun 1 – 6,5.0,22,141
+24,Villa in Lefkimmi,Villa Pied dans l 'eau,7 beds,Jun 4 – 9,4.82,11,289
+25,Villa in Kerkira,Corfu Sea View Villa Leo,3 beds,Jun 1 – 6,4.87,38,253
+26,Apartment in Kerkira,Old Town Apartment,2 double beds,Jun 1 – 8,4.99,167,100
+27,Apartment in Kerkira,Bright Elegant Apartment - Corfu Old Town,2 beds,Jun 19 – 24,4.97,112,100
+28,Home in Boukari,Blue Horizon (Boukari),3 beds,Jun 22 – 27,4.96,47,141
+29,Home in Kerkira,OUSAKOF 8,3 beds,Jun 20 – 25,4.96,114,118
+30,Apartment in Kerkira,Kiko Studios I,2 beds,Jun 1 – 6,5.0,33,89
+31,Apartment in Kerkira,Lovely apartment in the city of Kerkira,1 bed,Jun 8 – 13,4.94,34,71
+32,Apartment in Kerkira,Evita's  Old town  panoramic view,2 beds,Jun 16 – 21,5.0,38,78
+33,Apartment in Corfu,Senses Suite Tria: Luxury  renovated Apartment,1 double bed,Jun 10 – 15,4.89,28,105
+34,Villa in Pelekas,Yucca Tree Cottage  nice house with large pool,4 single beds,Jun 5 – 10,5.0,17,183
+35,Condo in Kerkira,My apartment,1 bed,Jun 1 – 6,4.57,21,47
+36,Cottage in Corfu,"Villa ""SPITAKI"" Astrakeri",4 single beds,Jun 1 – 6,4.98,52,83
+37,Apartment in Palaiokastritsa,Elysium Apartments Corfu-Studio Partial Sea View,1 bed,Jun 7 – 12,4.89,18,64
+38,Apartment in Petriti,House Kalithea,2 beds,Jun 11 – 16,5.0,55,92
+39,Condo in Kerkira,Studio Niovi  Mon Repos Κερκήρας.,1 double bed,Jun 1 – 6,4.74,198,60
+40,Apartment in Benitses  Corfu,Pantazis Studio No 7,1 double bed,Jun 9 – 14,4.73,83,45
+41,Condo in Agios Ioannis Peristeron,Villa Fourtuna Studio,2 beds,Jun 1 – 6,4.81,58,59
+42,Condo in Kerkira,Lovely apartment in the city of Κέρκυρα,1 queen bed,Jun 13 – 18,5.0,26,76
+43,Home in Corfu,Modern stone house with stunning sea view,2 beds,Jun 21 – 28,4.98,53,403
+44,Home in Corfu,Cosy eco cottage in Liapades Corfu,2 beds,Jun 30 – Jul 5,4.95,199,158
+45,Cottage in Pentati,Mantzaros Traditional House,3 beds,Jun 10 – 15,4.97,71,84
+46,Apartment in Kerkira,Kiko Studios II,1 double bed,Jun 29 – Jul 4,4.98,40,80
+47,Villa in Agnos,Villa Paradiso: Near beach  superb pool and garden,9 beds,Jun 5 – 10,4.89,44,290
+48,Home in Corfu,Corfu Seaview Maisonette - Sopra IL Mare,4 beds,Jun 9 – 14,5.0,41,276
+49,Home in Spartilas,★ Villa Faiax ★ stunning pool views Ipsos bay,6 beds,Jun 24 – 29,4.9,10,499
+50,Home in Nisaki,Villa Alexandros: Lovely villa  roof terrace pool,6 beds,Jun 2 – 7,4.96,50,317
+51,Home in Corfu,Detached house with privacy and swimming pool,3 beds,Jun 26 – Jul 1,4.61,52,217
+52,Apartment in Palaiokastritsa,Vanilla calm studio 3,1 queen bed,Jun 1 – 6,4.94,77,44
+53,Apartment in Kerkira,Fabulous apartment in the heart of the Old Town,5 beds,Jun 1 – 6,4.9,98,119
+54,Home in Corfu,Panorama Villa II  Arillas  Corfu,5 beds,Jun 10 – 17,4.96,23,336
+55,Home in Corfu,Beachfront villa in Avlaki Kassiopi Corfu,12 beds,Jun 20 – 27,4.75,4,890
+56,Villa in Corfu,Jade Villa,4 beds,Jun 11 – 16,5.0,21,633
+57,Villa in Kassiopi,Beach Villa Petros with private pool,9 beds,Jun 15 – 22,4.8,10,444
+58,Condo in Corfu,villa fourtuna apartment,4 single beds,Jun 1 – 6,4.63,49,71
+59,Condo in Kerkira,Luxury Nest,2 beds,Jun 4 – 9,4.95,20,69
+60,Villa in Agnitsini,Kerasia Bay View Villa  Corfu,8 beds,Jun 10 – 15,5.0,6,371
+61,Villa in Mparmpati,"Korypho Villa ""East""",5 beds,Jun 3 – 10,4.88,17,593
+62,Villa in Liapades,Stone Villa,3 beds,Jun 2 – 7,4.95,21,361
+63,Villa in Apraos,Apraos Beachfront Studio,1 double bed,Jun 7 – 14,4.95,21,361
+64,Villa in Corfu,Hillside Villa 3 Provence with pool and sea view,5 beds,Jun 29 – Jul 4,4.8,10,264
+65,Villa in Mpenitses,Ionian Garden Villas: Villa Pietra,8 beds,Jun 17 – 24,4.95,43,784
+66,Apartment in Kerkira,APT IN THE HISTORICAL CENTER,3 beds,Jun 2 – 7,4.57,53,89
+67,Apartment in Kerkira,Corfu Town Penthouse,3 beds,Jun 1 – 6,5.0,9,235
+68,Home in Kerkira,Casa Rossa Corfú,3 beds,Jun 30 – Jul 5,4.81,47,44
+69,Bungalow in Palaiokastritsa,Akron bungalow 50m footpath to the beach,3 beds,Jun 1 – 6,4.98,42,200
+70,Villa in Sidari,Villa Plastiras Sidari with private pool,11 beds,Jun 24 – 29,5.0,9,385
+71,Condo in Corfu,Dimitri's Apartment,3 beds,Jun 14 – 19,4.92,351,89
+72,Villa in Corfu,Rosemarine Villa by the beach in Kassiopi.,7 beds,Jun 10 – 17,4.89,18,729
+73,Apartment in Kerkira,The Magic Flat: Top floor with amazing view,2 double beds,Jun 1 – 6,4.98,89,153
+74,Apartment in Αχαράβη,Beach Villa Vaso Ena: Beachfront  stunning views,4 single beds,Jun 8 – 13,4.89,18,84
+75,Cottage in Nissaki,Villa Ioanna  stone villa - private swimming pool,3 beds,Jun 8 – 15,5.0,27,318
+76,Villa in Kavos,Villa Elegio,4 double beds,Jun 8 – 13,5.0,3,417
+77,Cottage in Kassiopi,Villa Varvara: Beach House with stunning views,3 beds,Jun 1 – 6,4.89,18,203
+78,Villa in Kassiopi,Villa Oneiro: Stunning views  private pool  A/C,7 beds,Jun 9 – 14,4.8,15,293
+79,Apartment in Corfu,Angelina Studio,1 double bed,Jun 13 – 18,4.53,43,49
+80,Villa in Roda,Luxury Villa Hera - Beachfront,8 beds,Jun 13 – 18,4.84,25,711
+81,Condo in Kerkira,Platy Kantouni apartment in the center of old town,2 beds,Jun 10 – 15,4.97,140,83
+82,Villa in Nisaki,Aphrodite Club Villa with private pool,16 beds,Jun 1 – 7,4.97,140,83
+83,Villa in Kerkira,Villa Maxim  Halikounas Corfu,7 beds,Jun 5 – 12,4.85,27,380
+84,Villa in Nissaki,Nissaki Suite Artemis Apartment,1 double bed,Jun 24 – 29,4.58,24,98
+85,Apartment in Nissaki,Nissaki Suite Poseidon,3 beds,Jun 20 – 27,4.79,29,117
+86,Apartment in Kerkira,Old Town Home,2 beds,Jun 1 – 8,4.96,189,77
+87,Cottage in Pentati,Mantzaros Little House,4 beds,Jun 23 – 28,5.0,30,106
+88,Villa in Pentati,'Anthelia' Nr Ag Gordis - Prestige Villas of Corfu,6 beds,Jun 18 – 23,5.0,6,992
+89,Home in Kerkira,Casa Margarita Corfu Beach House Reg. 1102941,10 beds,Jun 10 – 15,5.0,23,543
+90,Apartment in Kerkira,Daisy House,1 double bed,Jun 19 – 25,4.88,117,71
+91,Apartment in Corfu,DePaolis Corfu Town Apartment,1 double bed,Jun 1 – 6,4.34,289,59
+92,Apartment in Gouvia,Studio Yellow  Gouvia Corfu Greece Κέρκυρα 235076,1 queen bed,Jun 1 – 6,4.92,112,57
+93,Villa in Apraos,Apraos Beachfront House,4 beds,Jun 29 – Jul 6,4.92,112,57
+94,Bungalow in Palaiokastritsa,Akron bungalow 50m footpath to the beach,3 beds,Jun 1 – 6,4.98,42,200
+95,Villa in Nisaki,Old Stone House,3 beds,Jun 18 – 23,New,0,222
+96,Villa in Corfu,Villa Chrysoula,6 beds,Jun 1 – 6,4.93,71,282
+97,Home in Kerkira,Casetta @Old Town Corfu,1 double bed,Jun 1 – 6,New,0,83
+98,Villa in Melitsa,Villa Cocoon Sidari with private pool,5 beds,Jun 1 – 6,5.0,11,248
+99,Villa in Corfu,Villa Agni,2 queen beds,Jun 11 – 16,4.79,42,255
+100,Condo in Kerkira,Old Town Hideaway,3 beds,Jun 9 – 14,4.87,38,97
+101,Villa in Agios Gordios,Villa Sea View Descansa - Prestige Villas of Corfu,4 beds,Jun 18 – 23,4.86,7,583
+102,Villa in Corfu,☀️VILLA PELEKAS - 4BR/4BA w/heated pool & views☀️,8 single beds,Jun 16 – 21,5.0,15,529
+103,Villa in Kassiopi,Villa Apleton Kassiopi Corfu,6 beds,Jun 1 – 8,4.85,20,353
+104,Apartment in Paleokastritsa,Patio sea view l Close to everything l 2 BR + pkg,3 beds,Jun 1 – 8,5.0,62,288
+105,Home in Nisaki,Villa Kalithea Corfu  villa with a fabulous view,6 beds,Jun 23 – 28,5.0,15,412
+106,Cottage in Lefkimmi,"Home ""Maro""-Dream beach house",2 double beds,Jun 1 – 6,4.86,139,336
+107,Home in Chalikounas,Villa with private beach access and Jacuzzi,8 beds,Jun 6 – 13,4.92,13,327
+108,Cottage in Corfu,Luxurious Beachfront Fisherman's Cottage In Agni,3 beds,Jun 18 – 23,5.0,4,682
+109,Villa in Corfu,Brand New Villa Loki with Large infinity pool WiFi and Sea Views,3 beds,Jun 1 – 6,5.0,4,307
+110,Villa in Corfu,Villa Agni,2 queen beds,Jun 11 – 16,4.79,42,255
+111,Apartment in Άγιος Γεώργιος Πάγων,Seaside studio,2 beds,Jun 1 – 6,4.83,53,42
+112,Apartment in GR,Vecchia Carpenteria@Kampielo #Corfu_Old_City,1 bed,Jun 1 – 6,4.26,27,42
+113,Apartment in Kerkira,Casa Blanca,1 double bed,Jun 5 – 10,4.99,93,104
+114,Treehouse in Άνω Κορακιάνα,The Tree house in Ano Korakiana,1 bed,Jun 1 – 6,4.93,122,118
+115,Home in Pagoi,Kumquart Estate - up to 20 guests  private pool,14 beds,Jun 17 – 22,5.0,13,"1,072"
+116,Cottage in Nissaki,Villa Ioanna  stone villa - private swimming pool,3 beds,Jun 8 – 15,5.0,27,318
+117,Villa in Mpenitses,Ionian Garden Villas: Villa Olea,8 beds,Jun 3 – 10,5.0,36,731
+118,Condo in Agios Ioannis Peristeron,Villa Fourtuna Cute,2 beds,Jun 1 – 6,4.78,56,59
+119,Villa in Kerkira,Kommeno Bay View - Prestige Villas of Corfu,5 beds,Jun 1 – 8,4.78,56,59
+120,Villa in Agnos,Luxury Beach Villa Danune with private pool,3 beds,Jun 20 – 26,4.83,6,330
+121,Villa in Kalami,Villa Rastoni |Sunny family Villa top Views Kalami,7 beds,Jun 3 – 10,5.0,17,505
+122,Villa in Kalami,Kalami Sunlight Luxury Villa  Near Beach with pool,5 beds,Jun 1 – 7,4.91,58,355
+123,Villa in Corfu,The RivieraBarbati PrestigeVI.Blue 2-Bedroom PrPool,3 beds,Jun 6 – 11,4.91,58,355
+124,Apartment in Almyros  Acharavi,Maria Beach Studio,1 double bed,Jun 27 – Jul 2,4.69,42,59
+125,Apartment in Kerkira,Luxury Seaview Suite Mouragia,2 double beds,Jun 1 – 6,4.94,51,213
+141,,,,,4.94,51,213
+142,Villa in Agios Ioannis,Villa Theodora,5 beds,Jun 11 – 16,4.96,24,212
+143,Condo in Corfu Town,The Fan Studio in 17th-Century Old Corfu Town Building,1 queen bed,Jun 24 – 29,5.0,116,130
+144,Home in Arillas Magouladon,Panorama Villas in Arillas  Corfu,5 beds,Jun 24 – Jul 1,4.89,19,359
+145,Villa in Kerkira,WOOL CAMEL,6 beds,Jun 4 – 9,5.0,3,846
+146,Cottage in Nisaki,Villa Theodora: Amazing views  lovely pool  A/C,6 beds,Jun 9 – 14,4.69,17,297
+147,Apartment in Gouvia,Doctor`s House in the Nature,3 beds,Jun 1 – 6,5.0,32,71
+148,Condo in GR,Self catering studios with beautiful sea view.,2 single beds,Jun 1 – 8,5.0,23,50
+149,Apartment in Corfu,Art House in Corfu old Town with sea view,1 double bed,Jun 4 – 9,5.0,92,118
+150,Home in Pentati,Villa Scarlett . Pentati  Old Village.,1 king bed,Jun 1 – 6,4.94,52,89
+151,Apartment in GR,Vecchia Carpenteria@Kampielo #Corfu_Old_City,1 bed,Jun 1 – 6,4.26,27,42
+152,Apartment in Kerkira,Rena's Cosy Apartment,2 beds,Jun 7 – 12,4.83,102,97
+153,Villa in Kalami,Kalami Beach Luxury Villa with private pool,5 beds,Jun 7 – 13,4.88,17,396
+154,Villa in Karousádes,Sidari Beach Villa - Sidari Beach Villa,18 beds,Jun 1 – 6,5.0,3,672
+155,Villa in Corfu,Xenonerantzia Country style Villa,4 beds,Jun 1 – 6,5.0,24,470
+156,Villa in Dassia,Petrinos Cottage  Private Pool  300m to the beach.,1 double bed,Jun 30 – Jul 5,4.9,21,294
+157,Villa in Corfu,Villa Vardia-Amazing Seaviews with heated pool,4 beds,Jun 30 – Jul 7,5.0,14,575
+158,Villa in Paramonas,Villa Cosambeli,8 beds,Jun 19 – 25,4.83,23,720
+159,Home in Kerkira,Spacious Maisonette★Roof Top View 80m Corfu Port,4 beds,Jun 3 – 8,4.94,34,122
+160,Villa in Nissaki,Villa Hera: Large Private pool   Sea Views Wi Fi,6 beds,Jun 23 – 30,5.0,18,413
+161,Apartment in κερκυρα,old town studio,2 beds,Jun 10 – 15,4.9,175,71
+162,Cottage in Nissaki,Natasha: Superb views  private pool and gardens,5 beds,Jun 8 – 13,5.0,5,294
+163,Villa in Agnitsini,Scirocco Villa in Agnitsini  Corfu,4 beds,Jun 18 – 25,4.85,13,330
+164,Cottage in Corfu,Levanda Villa in Kassiopi (sea at 100 meters).,6 beds,Jun 1 – 7,4.91,24,635
+165,Home in Corfu,Veranda Kommeno,1 double bed,Jun 1 – 6,4.89,55,112
+166,Cottage in Saint Gordios beach,Cozy Studio Αrtemisia house 100m from the beach,1 bed,Jun 1 – 7,4.82,11,108
+167,Villa in Kontogialos,Ocean View Luxury Villa Ethra,4 beds,Jun 10 – 17,4.79,14,618
+168,Cottage in Paleokastritsa,Pergola Cottages,3 beds,Jun 1 – 6,4.83,75,112
+169,Apartment in Corfu,A small apartment in the center of the old town,1 double bed,Jun 1 – 6,5.0,4,81
+170,Apartment in Kerkira,Colorful & cozy  New Fortress apartment @ Old town,2 beds,Jun 1 – 6,4.98,55,70
+171,Villa in Kontokali,Villa Jewel - Villa Jewel,7 beds,Jun 8 – 13,4.59,22,465
+172,Villa in Vigglatouri,Villa Lithari-sea & mountainside views by the pool,5 beds,Jun 26 – Jul 2,4.91,22,371
+173,Villa in Apraos,Villa Thespina: Large Private Pool  Walk to Beach  Sea Views  A/C  WiFi,12 beds,Jun 4 – 9,4.91,22,371
+174,Home in Lefkimmi,Beach Home Cloths,4 beds,Jun 11 – 16,5.0,27,195
+175,Apartment in Kerkira,Davina The City Central Suite,1 bed,Jun 1 – 6,New,0,152
+176,Apartment in Astrakeri,Sklavenitis Panoramic Seaview Beach apartment.,3 beds,Jun 1 – 6,4.87,55,91
+177,Apartment in Νησάκι,Zeus 2 PRIVATE pool apartment close to the see,3 beds,Jun 2 – 9,4.93,56,154
+178,Apartment in Glifada,Ionian Senses - Corfu  Glyfada beach Apt. 119,2 beds,Jun 1 – 6,4.92,39,130
+179,Villa in Nisaki,Villa Katerina: Large Private Pool  Walk to Beach  Sea Views  A/C  WiFi,8 beds,Jun 1 – 6,5.0,7,467
+180,Private room in Kerkira,serene room,1 single bed,Jun 1 – 6,4.6,20,33
+181,Villa in Kalami,Colorful and sunny! in the best part of Corfu,4 beds,Jun 3 – 10,4.89,19,325
+182,Villa in Kerkira,Villa Santalas,6 beds,Jun 3 – 10,5.0,17,353
+183,Condo in Κέρκυρα,Avgi's Apartment Campielo,3 beds,Jun 14 – 19,4.97,134,106
+184,Apartment in Pelekas,House Lemoni App. A with terrace/balcony.,2 single beds,Jun 1 – 6,4.86,7,59
+185,Villa in Ipsos,Villa Danili - Prestige Villas of Corfu,5 beds,Jun 4 – 9,4.86,7,59
+186,Home in Kerkira,Kefalomantouko Garden House,5 beds,Jun 1 – 6,5.0,35,172
+187,Home in Kerkira,Sole di Corfu,4 beds,Jun 1 – 6,5.0,23,212
+188,Home in Kerkira,Vista del Mar,3 beds,Jun 1 – 6,4.93,40,153
+189,Villa in Corfu,Villa Jeanne -Dassia- Swimming pool -Sea view,5 beds,Jun 1 – 8,4.97,34,610
+190,Cottage in Kerkira,Little House  Corfu,2 single beds,Jun 21 – 26,5.0,13,70
+191,Villa in Kerkira,Nel Verde and Skripero,7 beds,Jun 12 – 17,5.0,30,447
+192,Villa in Nisaki,Nissaki Sunlight NEW Home-2min from Beach+Pool,4 beds,Jun 9 – 14,4.88,25,179
+193,Villa in Potamos,villa hermes,6 beds,Jun 1 – 6,5.0,13,331
+194,Condo in Kerkira,Little Bright Studio · Corfu Old Town,2 beds,Jun 1 – 6,4.96,48,118
+195,Villa in Roda,Villa Doma Beach for up to 21 guests,14 beds,Jun 1 – 6,4.75,4,385
+196,Villa in Acharavi,Luxury Villa Piedra with private heated pool & jacuzzi,4 beds,Jun 1 – 6,4.88,8,358
+197,Home in Kalami,Charming Villa in Paradise | inf pool & top views,3 beds,Jun 2 – 9,4.82,11,300
+198,Villa in Acharavi,Luxury Villa Piedra with private heated pool & jacuzzi,4 beds,Jun 1 – 6,4.88,8,358
+199,Home in Kalami,Charming Villa in Paradise | inf pool & top views,3 beds,Jun 2 – 9,4.82,11,300
+200,Villa in Dassia,Villa St. Nicholas House With Private Pool.,13 beds,Jun 4 – 11,4.63,27,764
+201,Villa in Peritheia,Villa Corfu Panorama - Villa Corfu Panorama,14 beds,Jun 1 – 6,5.0,10,687
+202,Villa in Sidari,Villa Evaggelia Sidari,13 beds,Jun 2 – 8,5.0,4,473
+203,Home in Kato Korakiana,THE STONE HOUSE-KELLARI,5 beds,Jun 1 – 6,4.97,29,157
+204,Villa in Mpenitses,Monastery Retreat and Seaview,3 beds,Jun 1 – 6,4.94,37,112
+205,Villa in Chalikounas,Land of Sirius,2 queen beds,Jun 10 – 16,5.0,19,271
+206,Private room in Palaiokastritsa,Studio #2 - 3m away from the beach!,2 beds,Jun 2 – 8,4.88,41,65
+207,Apartment in Kerkira,Old Town Luxury Suites 'Contessa',3 beds,Jun 10 – 15,4.89,92,212
+208,Home in Agia Triada,Iliopetra Houses,6 beds,Jun 4 – 9,5.0,18,517
+209,Villa in Nisaki,Luxury My Villa Corfu by GHH,8 double beds,Jun 5 – 10,4.9,10,"1,480"
+210,Villa in Karniaris,Beachfront Villa Seasun - Beachfront Villa Seasun,11 beds,Jun 25 – 30,4.88,8,"1,003"
+211,Villa in Kato Korakiana,Villa Kristefi  large private pool  spacious grounds  sleeps 8  WiFi  BBQ,5 beds,Jun 3 – 8,4.92,12,243
+212,Home in Agios Gordios,Villa Renata with private Plunge Pool,3 beds,Jun 12 – 19,5.0,9,348
+213,Cottage in Pentati,"""Mantzaros Country House""",4 beds,Jun 1 – 6,5.0,41,112
+214,Villa in Mpenitses,Villa Litsa: Large Private Pool  Walk to Beach  Sea Views  A/C  WiFi,5 beds,Jun 1 – 6,4.83,6,361
+215,Home in Corfu,studio in the nature ! very relax!,4 beds,Jun 12 – 19,4.96,150,59
+216,Home in Corfu,studio in the nature ! very relax!,4 beds,Jun 12 – 19,4.96,150,59
+217,Cottage in Ano Korakiana,White Jasmine Cottage,3 beds,Jun 1 – 6,4.93,29,215
+218,Home in Pentati,EUTIXIAS FULL HOUSE (with amazing garden),4 beds,Jun 7 – 12,4.94,54,114
+219,Private room in Mpenitses,Lord Ape Suites Club 3,1 bed,Jun 1 – 6,New,0,89
+220,Home in Lefkimmi,The pretty house next to the beach (Aleca's House),3 beds,Jun 1 – 6,4.95,38,163
+221,Villa in Corfu,MaisonRose  the French Villa of Corfu (new!),7 beds,Jun 19 – 24,5.0,10,"1,128"
+222,Apartment in Nissaki,The Beach House Kaminaki,2 beds,Jun 1 – 7,5.0,21,262
+223,Apartment in Corfu,Direct access to the beach & Jacuzzi,6 beds,Jun 6 – 13,4.43,42,176
+224,Villa in Kerkira,Corfu Sea View Villa Alya,5 beds,Jun 1 – 6,4.86,21,302
+225,Villa in Mparmpati,Luxury Villa Akti Barbati 3 with private pool,2 beds,Jun 7 – 12,4.84,19,224
+226,Home in Palaiokastritsa,Barbara's House,5 beds,Jun 1 – 6,4.98,42,300
+227,Apartment in Pelekas,Aphrodite's Rooms and Studio,1 double bed,Jun 1 – 6,4.43,47,36
+228,Home in Corfu,Scenery  space choice & authentic Corfu,4 beds,Jun 1 – 6,4.74,36,281
+229,Hotel room in Mpenitses,Anasa Corfu - Superior Room with Sea View,1 double bed,Jun 1 – 6,4.62,37,83
+230,Apartment in Kerkira,Old Town Apt. in Saint-Spyridon str.,2 beds,Jun 1 – 6,4.82,148,84
+231,Private room in Palaiokastrites,Studio #1 - 3m away from the beach!,2 beds,Jun 4 – 10,4.92,76,65
+232,Home in Mesoggi,Evita's ikia seaside luxury house,4 beds,Jun 8 – 13,5.0,49,198
+233,Condo in Kerkira,Classy Architect's renovated studio old town Corfu,1 double bed,Jun 1 – 6,4.79,66,107
+234,Private room in Afionas  Kerkyra,Zeus Throne Junior Suite,1 bed,Jun 1 – 6,4.97,32,341
+235,Home in Kerkira,Best View Apartment Saint Spyridon,4 beds,Jun 1 – 6,4.9,41,172
+236,Apartment in Mparmpati,Galini Apartments/Apart. C,4 beds,Jun 1 – 8,4.94,17,59
+237,Guest suite in Mparmpati,Locanda Guesthouse 1,1 queen bed,Jun 1 – 6,5.0,22,118
+238,Apartment in Nissaki,The Beach House Kaminaki,2 beds,Jun 1 – 7,5.0,21,262
+239,Villa in Poulades,Villa Verde  over the hill  sea view  private pool,7 beds,Jun 1 – 8,5.0,28,356
+240,Apartment in Kontokali,Alexandros & Gerekos apartments,3 beds,Jun 3 – 8,4.75,21,91
+241,Private room in Corfu,La Estrella. Beach  shops  Gouvia Marina walking,1 queen bed,Jun 1 – 6,4.85,65,30
+242,Apartment in Agnos,My lovely country home  Corfu,2 single beds,Jun 1 – 6,4.85,53,64
+243,Apartment in Lefkimmi,Korina apart Kavos - Superior studio 1,1 king bed,Jun 1 – 6,4.69,101,56
+244,Villa in Kerkira,Avlaki House  beachfront stylish villa in Kassiopi,10 beds,Jun 10 – 17,5.0,5,752
+245,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+246,Condo in Kerkira,Casa di Bousoulis (near airport & Corfu center),3 beds,Jun 1 – 6,4.88,26,141
+247,Apartment in Nissaki,Nissaki Suite Kalypso,3 beds,Jun 7 – 12,4.58,43,96
+248,Villa in Nisákion,Korypho Villa Nissaki,8 beds,Jun 3 – 10,5.0,6,"1,706"
+249,Home in Nisaki,Villa Calypso: Stunning views  private pool  A/C,5 beds,Jun 1 – 6,4.69,29,221
+250,Private room in Palaiokastritsa,Fotini Studios,2 beds,Jun 1 – 6,4.81,33,78
+251,Cottage in Nisaki,Villa Andonis Nisaki 500metres from Nisaki Beach,9 beds,Jun 4 – 9,5.0,13,470
+252,Villa in Nisaki,Ilios Sea View,5 beds,Jun 1 – 6,New,0,259
+253,Apartment in Kerkira,La Bohème,1 queen bed,Jun 1 – 6,4.93,59,125
+254,Villa in Nisaki,Villa Georgina - private pool & stunning sea view,3 beds,Jun 1 – 6,4.84,19,244
+255,Home in Kassiopi,Villa Calypso  Kassiopi - 'Prestige Villas Corfu',5 beds,Jun 9 – 14,4.84,19,244
+256,Apartment in Agios Ioannis Peristeron,Villa Fourtuna Cozy,2 beds,Jun 1 – 6,4.38,16,59
+257,Tiny home in Corfu,Villa Anthoussa - Kalivilla private house,3 beds,Jun 1 – 6,4.94,17,177
+258,Villa in Corfu,LA VISTA E BELLA ESTATE (NEAR ACHILLEION PALACE),9 beds,Jun 1 – 6,5.0,15,"1,175"
+259,Apartment in Kerkira,Dear Prudence,1 king bed,Jun 1 – 6,5.0,26,125
+260,Home in Agios Ioannis Peristeron,Villa Fourtuna Panoramic View,2 single beds,Jun 1 – 6,4.71,17,71
+261,Villa in Corfu,City Villa with a Pool. Trendy area,6 beds,Jun 1 – 6,4.75,4,527
+262,Condo in Kerkira,The Heritage Penthouse!  Old City Centre,5 beds,Jun 3 – 8,4.91,11,517
+263,Apartment in Nissaki,Nissaki Suite Kalypso,3 beds,Jun 7 – 12,4.58,43,96
+264,Villa in Karousades,Green Family Villa,7 beds,Jun 1 – 6,New,0,251
+265,Apartment in Corfu,KAYO | Livas Apartment,1 bed,Jun 1 – 6,4.99,78,99
+266,Earthen home in Kira Chrisikou,Casa T with amazing views,11 beds,Jun 19 – 24,4.76,61,564
+267,Guest suite in Mparmpati,Locanda Guesthouse 1,1 queen bed,Jun 1 – 6,5.0,22,118
+268,Apartment in Mparmpati,Galini Apartments/Apart. B,4 single beds,Jun 1 – 8,5.0,19,59
+269,Townhouse in Kerkira,Durrells str stunning Home & Garden ✤ New Fortress,3 beds,Jun 3 – 10,4.85,72,214
+270,Villa in Kato Korakiana,Luxury Wooden Villa with Pool  The Nest,6 beds,Jun 1 – 6,4.93,41,558
+271,Villa in Velonades,Villa Bougarini with private pool,9 beds,Jun 3 – 8,4.93,41,558
+272,Apartment in Glifada,Waves Apartments Melody,2 beds,Jun 7 – 12,5.0,18,277
+273,Villa in Corfu,Villa Eleanna: Large Heated Private Pool  Sea Views  A/C  WiFi  Eco-Friendly,8 beds,Jun 18 – 23,5.0,18,277
+274,Home in Paramonas,Abelaki Holiday Home,3 beds,Jun 1 – 6,4.67,15,73
+275,Home in Corfu,Stavros studio in nature ! Very relax!,4 beds,Jun 16 – 22,4.95,125,59
+276,Apartment in Acharavi,CASA AMALIA - 1stFloor 2room Apartment #4,4 beds,Jun 1 – 6,5.0,7,85
+277,Villa in Corfu,Villa Sea View with Private Heated Pool & Hot-Tub,3 beds,Jun 4 – 9,4.87,52,268
+278,Apartment in Kerkira,Breathtaking panoramic sea view.,5 beds,Jun 1 – 6,4.87,122,167
+279,Condo in Kerkira,The In Town Apartment - With a Private Terrace,1 bed,Jun 1 – 6,5.0,4,159
+280,Villa in Kassiopi,Beach Villa Nancy - Beach Villa Nancy,19 beds,Jun 1 – 6,4.64,11,631
+281,Home in Pirgi,Katerina House  Ipsos Corfu,5 beds,Jun 26 – Jul 1,4.47,19,99
+282,Villa in Corfu,Jasmin Villa Nissaki  Corfu,3 beds,Jun 3 – 10,5.0,8,230
+283,Apartment in Ypsos,New modern studio by the sea_Green,1 king bed,Jun 1 – 6,4.95,62,104
+284,Apartment in Kerkira,Darmani Spyros Apartments 3,6 beds,Jun 1 – 6,4.6,58,167
+285,Apartment in Kerkira,<Kampielo Homes> - 19th century three level place,2 double beds,Jun 1 – 6,4.33,21,79
+286,Villa in Kalami,Villa Eleni Kalami with private pool,5 beds,Jun 12 – 17,4.33,21,79
+287,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+288,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+289,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+290,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+291,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+292,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+293,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+294,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+295,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+296,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+297,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+298,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+299,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+300,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+301,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+302,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+303,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+304,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+305,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+306,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+307,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+308,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+309,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+310,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+311,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+312,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+313,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+314,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+315,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+316,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+317,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+318,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+319,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+320,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+321,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+322,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+323,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+324,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+325,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+326,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+327,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+328,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+329,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+330,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+331,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+332,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+333,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+334,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+335,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+336,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+337,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+338,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+339,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+340,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+341,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+342,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+343,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+344,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+345,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+346,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+347,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+348,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+349,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+350,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+351,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+352,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+353,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+354,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+355,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+356,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+357,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+358,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+359,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+360,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+361,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+362,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+363,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+364,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+365,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+366,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+367,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+368,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+369,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+370,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+371,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+372,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+373,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+374,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+375,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+376,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+377,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+378,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+379,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+380,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+381,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+382,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+383,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+384,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+385,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+386,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+387,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+388,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+389,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+390,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+391,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+392,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+393,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+394,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+395,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+396,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+397,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+398,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+399,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+400,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+401,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+402,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+403,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+404,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+405,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+406,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+407,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+408,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+409,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+410,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+411,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+412,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+413,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+414,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+415,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+416,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+417,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+418,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+419,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+420,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+421,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+422,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+423,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+424,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+425,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+426,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+427,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+428,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+429,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+430,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+431,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+432,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+433,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+434,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+435,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+436,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+437,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+438,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+439,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+440,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+441,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+442,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+443,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+444,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+445,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+446,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+447,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+448,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+449,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+450,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+451,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+452,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+453,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+454,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+455,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+456,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+457,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+458,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+459,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+460,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+461,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+462,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+463,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+464,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+465,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+466,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+467,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+468,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+469,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+470,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+471,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+472,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+473,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+474,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+475,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+476,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+477,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+478,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+479,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+480,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+481,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+482,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+483,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+484,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+485,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+486,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+487,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+488,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+489,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+490,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+491,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+492,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+493,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+494,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+495,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+496,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+497,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+498,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+499,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+500,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+501,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+502,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+503,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+504,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+505,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+506,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+507,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+508,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+509,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+510,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+511,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+512,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+513,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+514,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+515,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+516,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+517,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+518,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+519,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+520,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+521,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+522,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+523,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+524,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+525,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+526,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+527,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+528,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+529,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+530,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+531,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+532,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+533,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+534,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+535,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+536,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+537,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+538,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+539,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+540,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+541,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+542,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+543,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+544,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+545,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+546,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+547,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+548,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+549,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+550,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+551,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+552,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+553,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+554,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+555,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+556,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+557,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+558,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+559,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+560,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+561,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+562,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+563,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+564,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+565,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+566,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+567,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+568,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+569,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+570,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+571,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+572,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+573,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+574,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+575,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+576,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+577,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+578,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+579,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+580,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+581,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+582,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+583,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+584,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+585,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+586,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+587,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+588,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+589,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+590,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+591,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+592,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+593,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+594,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+595,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+596,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+597,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+598,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+599,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+600,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+601,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+602,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+603,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+604,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+605,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+606,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+607,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+608,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+609,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+610,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+611,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+612,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+613,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+614,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+615,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+616,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+617,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+618,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+619,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+620,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+621,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+622,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+623,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+624,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+625,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+626,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+627,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+628,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+629,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+630,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+631,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+632,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+633,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+634,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+635,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+636,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+637,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+638,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+639,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+640,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+641,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+642,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+643,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+644,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+645,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+646,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+647,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+648,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+649,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+650,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+651,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+652,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+653,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+654,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+655,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+656,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+657,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+658,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+659,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+660,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+661,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+662,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+663,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+664,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+665,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+666,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+667,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+668,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+669,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+670,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+671,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+672,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+673,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+674,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+675,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+676,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+677,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+678,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+679,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+680,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+681,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+682,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+683,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
+684,Private room in Kerkira,Sea View Corfu 2,1 bed,Jun 1 – 6,4.93,233,60
+685,Villa in Mparmpati,Villa Annie,6 beds,Jun 9 – 14,5.0,12,"1,058"
+686,Villa in Kerkira,Luxury Villa Makris with private heated pool,6 beds,Jun 17 – 22,5.0,6,418
+687,Home in GR,Vasso Two-Bedroom Sea View Residence Kerasia Beach,4 beds,Jun 1 – 8,New,0,117
+688,Villa in Corfu,Villa Melissonia,5 beds,Jun 11 – 16,5.0,6,621
+689,Villa in Spartilas,"Pelagos Luxury Suites  ""Ammos""  Ano Pyrgi  Corfù",2 beds,Jun 1 – 6,5.0,12,433
+690,Apartment in Kerkira,Bonora studio,1 double bed,Jun 1 – 6,4.96,136,94
+691,Apartment in Benitses Mpenitses,Alexandros Savvatis,4 single beds,Jun 1 – 6,4.93,30,65
+692,Apartment in Αχαράβη,Beach Villa Vaso Dio: Beachfront  Sea view  garden,4 single beds,Jun 1 – 6,4.63,8,84
+693,Villa in Corfu,Villa Iliana,4 beds,Jun 1 – 6,5.0,6,412
+694,Villa in Sinarades,Corfu  Sinarades Villa,2 beds,Jun 7 – 12,4.78,36,187
+695,Apartment in Corfu,Bonagrazia,4 beds,Jun 9 – 14,4.84,104,212
+696,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+697,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+698,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+699,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+700,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+razia,4 beds,Jun 9 – 14,4.84,104,212
+876,Home in Acharavi,Spiros family house,2 double beds,Jun 1 – 6,5.0,13,96
+877,Home in Corfu - Κέρκυρα,Beach Villa Marina: Near Beach  private pool  A/C,6 beds,Jun 1 – 6,5.0,6,506
+878,Home in Corfu,Villa Chloe with Private Pool,7 beds,Jun 3 – 10,4.81,21,347
+879,Condo in Kerkira,Zia Maria's House next to Corfu port,1 queen bed,Jun 1 – 6,4.86,21,74
+880,Condo in Spartilas,A Little Place in Heaven,2 beds,Jun 5 – 10,4.89,27,127
+881,Apartment in Palaiokastritsa,LILI'S STUDIOS 2,3 beds,Jun 1 – 6,4.75,20,47
