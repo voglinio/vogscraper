@@ -80,53 +80,53 @@ for url in urls:
         print(len(container))
 
         for j in range(len(container)):
-            #try:
-            elem = container[j].find_element(By.CLASS_NAME, "RfBGI")
-            title = elem.text
-            ttt = title.split(".")
-            if len(ttt) > 1:
-                title = ttt[1]
-            title = title.replace(",", " ")
+            try:
+                elem = container[j].find_element(By.CLASS_NAME, "RfBGI")
+                title = elem.text
+                ttt = title.split(".")
+                if len(ttt) > 1:
+                    title = ttt[1]
+                title = title.replace(",", " ")
 
-            elem = container[j].find_element(By.CLASS_NAME, "Lwqic")
-            href = elem.get_attribute("href")
+                elem = container[j].find_element(By.CLASS_NAME, "Lwqic")
+                href = elem.get_attribute("href")
 
-            elem = container[j].find_element(By.CLASS_NAME, "IiChw")
-            reviews = elem.text.split(" ")[0]
-            reviews = reviews.replace(",", "")
+                elem = container[j].find_element(By.CLASS_NAME, "IiChw")
+                reviews = elem.text.split(" ")[0]
+                reviews = reviews.replace(",", "")
 
-            elems = container[j].find_elements(By.CLASS_NAME, "qAvoV")
-            cuisine = ""
-            money = ""
-            if len(elems) > 3:
-                cuisine = elems[2].text
-                cuisine = cuisine.replace(",", "-")
-                money = elems[3].text
+                elems = container[j].find_elements(By.CLASS_NAME, "qAvoV")
+                cuisine = ""
+                money = ""
+                if len(elems) > 3:
+                    cuisine = elems[2].text
+                    cuisine = cuisine.replace(",", "-")
+                    money = elems[3].text
 
-            elem = container[j].find_element(By.CLASS_NAME, "UctUV")
-            stars = elem.get_attribute("aria-label")
+                elem = container[j].find_element(By.CLASS_NAME, "UctUV")
+                stars = elem.get_attribute("aria-label")
 
-            id = href.split("/")[-1].split(".")[0]
-            if id not in list_ids:
+                id = href.split("/")[-1].split(".")[0]
+                if id not in list_ids:
 
-                print(inew, id, title, href, reviews, cuisine, money, stars)
-                inew = inew + 1
-                csvWriter.writerow(
-                    [
-                        id,
-                        title,
-                        href,
-                        reviews,
-                        cuisine,
-                        money,
-                        stars,
-                    ]
-                )
-                csvFile.flush()
+                    print(inew, id, title, href, reviews, cuisine, money, stars)
+                    inew = inew + 1
+                    csvWriter.writerow(
+                        [
+                            id,
+                            title,
+                            href,
+                            reviews,
+                            cuisine,
+                            money,
+                            stars,
+                        ]
+                    )
+                    csvFile.flush()
 
-            #except:
-            #    print("nope!", title)
-            #    pagedriver.quit()
+            except:
+                print("nope!", title)
+                pagedriver.quit()
 
         el = driver.find_elements(By.XPATH, "//a[@data-page-number]")
         if len(el) > 2:
