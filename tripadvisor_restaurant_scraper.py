@@ -12,13 +12,13 @@ import numpy as np
 # default path to file to store data
 path_to_file = "tripadvisor_zakynthos_v4.csv"
 
-if exists(path_to_file):
-    #df = pd.read_csv(path_to_file, header=None)
-    #list_ids = df[0].values.tolist()
-    #print("Starting with ", len(df), " properties", len(list_ids))
-#else:
-    list_ids = []
-    print("Starting on empty file")
+# if exists(path_to_file):
+# df = pd.read_csv(path_to_file, header=None)
+# list_ids = df[0].values.tolist()
+# print("Starting with ", len(df), " properties", len(list_ids))
+# else:
+list_ids = []
+print("Starting on empty file")
 
 # default number of scraped pages
 num_page = 17
@@ -38,7 +38,7 @@ if len(sys.argv) == 4:
 # chrome_options.add_argument("--headless")
 
 # open the file to save the review
-csvFile = open(path_to_file, "a", encoding="utf-8")
+csvFile = open(path_to_file, "w", encoding="utf-8")
 csvWriter = csv.writer(csvFile)
 
 
@@ -111,7 +111,9 @@ for url in urls:
                 pagedriver.implicitly_wait(5)
                 pagedriver.get(href)
                 time.sleep(4)
-                overlay = pagedriver.find_element(By.ID, "onetrust-accept-btn-handler")
+                overlay = pagedriver.find_element(
+                    By.ID, "onetrust-accept-btn-handler"
+                )
                 overlay.click()
                 time.sleep(2)
                 ratings = pagedriver.find_elements(By.CLASS_NAME, "DzMcu")
@@ -147,83 +149,164 @@ for url in urls:
                 if len(travel_ratings) == 5:
                     for k in range(len(travel_ratings)):
                         print(tagakia[k], travel_ratings[k].text)
-                        tttt = travel_ratings[k].text.replace(',', '')
+                        tttt = travel_ratings[k].text.replace(",", "")
                         temp[k] = int(tttt)
-
 
                 #
                 # Get Languages:
                 # Step 1: Click on more languages
-                lang_dict = {"English": 0, "Greek":0, "German":0, "Italian":0, "French": 0, "Russian":0, "Other": 0}
+                lang_dict = {
+                    "English": 0,
+                    "Greek": 0,
+                    "German": 0,
+                    "Italian": 0,
+                    "French": 0,
+                    "Russian": 0,
+                    "Other": 0,
+                }
 
-                el = pagedriver.find_elements(By.XPATH, '//div[@data-param="filterLang"]')
-                print ("====> el")
+                el = pagedriver.find_elements(
+                    By.XPATH, '//div[@data-param="filterLang"]'
+                )
+                print("====> el")
                 if len(el) > 0:
-                   taLinks = el[0].find_elements(By.CLASS_NAME, 'taLnk')
-                   if len(taLinks) > 0:
-                       taLinks[0].click()
-                       time.sleep(1)
-                       print ("Clicked")
-                       #
-                       # Step 2: Once clicked get languages
-                       el = pagedriver.find_elements(By.CLASS_NAME, 'more-options')
-                       if len(el) > 0:
-                           print (el[0].text)
-                           #
-                           # Step 3: Close the overlay window_height
-                           el = pagedriver.find_elements(By.CLASS_NAME, 'ui_close_x')
-                           if len(el) > 0:
-                               el[1].click()
-                               time.sleep(2)
-                               print ("ui_close_x")
-
+                    taLinks = el[0].find_elements(By.CLASS_NAME, "taLnk")
+                    if len(taLinks) > 0:
+                        taLinks[0].click()
+                        time.sleep(1)
+                        print("Clicked")
+                        #
+                        # Step 2: Once clicked get languages
+                        el = pagedriver.find_elements(By.CLASS_NAME, "more-options")
+                        if len(el) > 0:
+                            x = el[0].text
+                            ii = 0
+                            for el in x.split("\n"):
+                                if ii > 0:
+                                    lang = el.split(" ")[0]
+                                    count = el.split(" ")[-1][1:-1]
+                                    count = count.replace(",", "")
+                                    count = int(count)
+                                    # print (lang, count)
+                                    if lang in lang_dict.keys():
+                                        lang_dict[lang] = count
+                                    else:
+                                        lang_dict["Other"] += count
+                                ii = ii + 1
+                            #
+                            # Step 3: Close the overlay window_height
+                            el = pagedriver.find_elements(
+                                By.CLASS_NAME, "ui_close_x"
+                            )
+                            if len(el) > 0:
+                                el[1].click()
+                                time.sleep(2)
+                                print("ui_close_x")
+                print(lang_dict)
                 #
                 # Get Loops:
                 # Step 1: Click on ALL languages
-                el = pagedriver.find_elements(By.ID, 'filters_detail_language_filterLang_ALL')
+                el = pagedriver.find_elements(
+                    By.ID, "filters_detail_language_filterLang_ALL"
+                )
                 if len(el) > 0:
                     el[0].click()
                     time.sleep(3)
                     #
                     # Step 2: Loop Traveler Type
                     ttypes = ["Families", "Couples", "Solo", "Business", "Friends"]
+                    ttypes_ids = [3, 2, 5, 1, 4]
+                    data_ttypes_per_traveler = np.zeros((5, 5))
+                    try:
+                        ii = -1
+                        for ttype in ttypes:
+                            print("======> ", ttypes_ids[ii])
+                            ii = ii + 1
+                            search_string = (
+                                '//label[@for="filters_detail_checkbox_filterSegment__'
+                                + str(ttypes_ids[ii])
+                                + '"]'
+                            )
+                            print(search_string)
+                            clikme = pagedriver.find_elements(
+                                By.XPATH, search_string
+                            )
+                            if len(clikme) > 0:
+                                clikme[0].click()
+                                time.sleep(2)
 
+                            tparams = pagedriver.find_elements(
+                                By.XPATH, '//div[@data-param="trating"]'
+                            )
+
+                            travel_ratings = tparams[0].find_elements(
+                                By.CLASS_NAME, "row_num"
+                            )
+                            temp = [-1, -1, -1, -1, -1]
+                            if len(travel_ratings) == 5:
+                                for k in range(len(travel_ratings)):
+                                    # print(tagakia[k], travel_ratings[k].text)
+                                    tttt = travel_ratings[k].text.replace(",", "")
+                                    temp[k] = int(tttt)
+                                    data_ttypes_per_traveler[ii - 1, k] = temp[k]
+
+                            clikme = pagedriver.find_elements(
+                                By.XPATH, search_string
+                            )
+                            if len(clikme) > 0:
+                                clikme[0].click()
+                                time.sleep(2)
+                    except:
+                        print("next time")
+
+                    print(data_ttypes_per_traveler)
 
                     #
                     # Step 3: Loop Time of year
                     ttypes = ["Mar-May", "Jun-Aug", "Sep-Nov", "Dec-Feb"]
-                    data_ttypes = np.zeros((4, 5))
+                    data_ttypes_per_year = np.zeros((4, 5))
                     try:
                         ii = 0
                         for ttype in ttypes:
                             print("======> ", ttype)
                             ii = ii + 1
-                            search_string= '//label[@for="filters_detail_checkbox_filterSeasons__'+str(ii)+'"]'
-                            clikme = pagedriver.find_elements(By.XPATH, search_string)
+                            search_string = (
+                                '//label[@for="filters_detail_checkbox_filterSeasons__'
+                                + str(ii)
+                                + '"]'
+                            )
+                            clikme = pagedriver.find_elements(
+                                By.XPATH, search_string
+                            )
                             if len(clikme) > 0:
                                 clikme[0].click()
                                 time.sleep(2)
 
-                            tparams = pagedriver.find_elements(By.XPATH, '//div[@data-param="trating"]' )
+                            tparams = pagedriver.find_elements(
+                                By.XPATH, '//div[@data-param="trating"]'
+                            )
 
-                            travel_ratings = tparams[0].find_elements(By.CLASS_NAME, "row_num")
+                            travel_ratings = tparams[0].find_elements(
+                                By.CLASS_NAME, "row_num"
+                            )
                             temp = [-1, -1, -1, -1, -1]
                             if len(travel_ratings) == 5:
                                 for k in range(len(travel_ratings)):
-                                    #print(tagakia[k], travel_ratings[k].text)
-                                    tttt = travel_ratings[k].text.replace(',', '')
+                                    # print(tagakia[k], travel_ratings[k].text)
+                                    tttt = travel_ratings[k].text.replace(",", "")
                                     temp[k] = int(tttt)
-                                    data_ttypes[ii-1, k] = temp[k]
+                                    data_ttypes_per_year[ii - 1, k] = temp[k]
 
-                            clikme = pagedriver.find_elements(By.XPATH, search_string)
+                            clikme = pagedriver.find_elements(
+                                By.XPATH, search_string
+                            )
                             if len(clikme) > 0:
                                 clikme[0].click()
                                 time.sleep(2)
                     except:
-                        print('next time')
+                        print("next time")
 
-
-                print (data_ttypes)
+                print(data_ttypes_per_year)
                 pagedriver.quit()
 
                 print(inew, id, title, href, reviews, cuisine, money, stars)
@@ -248,7 +331,16 @@ for url in urls:
                         temp[2],
                         temp[3],
                         temp[4],
+                        lang_dict["English"],
+                        lang_dict["Greek"],
+                        lang_dict["German"],
+                        lang_dict["Italian"],
+                        lang_dict["French"],
+                        lang_dict["Russian"],
+                        lang_dict["Other"],
                     ]
+                    + data_ttypes_per_traveler.flatten(order="C").tolist()
+                    + data_ttypes_per_year.flatten(order="C").tolist()
                 )
                 csvFile.flush()
 
