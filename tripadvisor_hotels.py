@@ -13,11 +13,11 @@ import os
 
 # default path to file to store data
 path_to_file = "tripadvisor_corfu_hotels.csv"
-os.remove(path_to_file)
+#os.remove(path_to_file)
 
 if exists(path_to_file):
     df = pd.read_csv(path_to_file, header=None)
-    list_ids = df[0].values.tolist()
+    list_ids = df[0].values.astype('str').tolist()
     print("Starting with ", len(df), " properties", len(list_ids))
 else:
     list_ids = []
@@ -29,6 +29,7 @@ num_page = 17
 # default tripadvisor website of hotel or things to do (attraction/monument)
 
 urls = ["https://www.tripadvisor.com/Hotels-g189458-zft21371-Corfu_Ionian_Islands-Hotels.html"]
+
 tagakia = ["Excellent", "Very good", "Average", "Poor", "Terrible"]
 
 # if you pass the inputs in the command line

@@ -11,7 +11,7 @@ from selenium.common.exceptions import WebDriverException
 
 #
 # default path to file to store data
-listings_file = "booking_zakinthos_v3.csv"
+listings_file = "booking_zakinthos.csv"
 df = pd.read_csv(listings_file, header=None)
 df.columns = ['id', 'name', 'txt', 'rate', 'revs', 'nights', 'adults', 'money', 'addr', 'link']
 urls = df.link.tolist()
@@ -20,7 +20,7 @@ ids = df.id.tolist()
 #
 #print("found ", len(urls))
 #
-path_to_file = "booking_zakinthos_reviews_v3.csv"
+path_to_file = "booking_zakinthos_reviews.csv"
 
 #df  = pd.read_csv(path_to_file, header=None)
 #print ("Starting with ", len(df), " properties" )
@@ -75,10 +75,10 @@ for i in range(len(urls)):
         if (len(button) > 0 ):
             button[0].click()
         time.sleep(2)
-        
+
         ipages = 0
         while True:
-        
+
             elems = driver.find_elements(By.CLASS_NAME, "review_list_new_item_block")
             print ("comments ", len(elems))
             for i in range(len(elems)):
@@ -88,11 +88,11 @@ for i in range(len(urls)):
                 x3 = elem.find_elements(By.CLASS_NAME, "bui-avatar-block__title")
                 x4 = elem.find_elements(By.CLASS_NAME, "bui-avatar-block__subtitle")
                 x5 = elem.find_elements(By.CLASS_NAME, "c-review-block__date")
-                
+
                 xx5 = ""
                 if len(x5) > 0:
                     xx5 = x5[0].text
-                    
+
                 print (xx5)
                 xx1 = ""
                 if (len(x1) > 0):
@@ -120,7 +120,7 @@ for i in range(len(urls)):
                     xx4 = x4[0].text
                 print ("-----")
                 csvWriter.writerow([id, xx1, xx2_1, xx2_2, xx3, xx4, xx5])
-             
+
             next_button = driver.find_elements(By.CLASS_NAME, 'pagenext')
             if len(next_button) > 0:
                 next_button[0].click()
@@ -131,8 +131,8 @@ for i in range(len(urls)):
             else:
                 break
 
-        
-        
+
+
         driver.quit()
     except WebDriverException:
         print ("continue")
