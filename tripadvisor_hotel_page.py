@@ -35,6 +35,7 @@ for i in range(len(ids)):
         url = urls[i]
         max_reviews = reviews[i]
         chrome_options = Options()
+        chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(options=chrome_options)
         driver.implicitly_wait(2)
         driver.get(url)
@@ -49,11 +50,9 @@ for i in range(len(ids)):
         print (i, ids[i], max_reviews, int(np.ceil(max_reviews/10)))
 
         for jj in range(int(np.ceil(max_reviews/10))):
-
-
             container = driver.find_elements(By.XPATH, '//div[@data-test-target="HR_CC_CARD"]')
-            print ("loading page ", ipages, ' =>', len(container), '=', ireviews)
-
+            print ("loading page ", ipages, ' =>', len(container), '=', ireviews, '<->', max_reviews)
+            time.sleep(1)
             for j in range(len(container)):
                 try:
                     ireviews = ireviews + 1
@@ -70,8 +69,6 @@ for i in range(len(ids)):
                         body = elems[0].text
                         body = body.replace("\n", " ")
                         body = body.replace(",", " ")
-
-
 
                     rating = ""
                     elem = container[j].find_elements(By.CLASS_NAME, 'ui_bubble_rating')

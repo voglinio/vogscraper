@@ -11,14 +11,15 @@ from selenium.common.exceptions import WebDriverException
 
 
 # default path to file to store data
-listings_file = "aibnb_corfu_gouvia.csv"
+listings_file = "aibnb_corfu_coords.csv"
 df = pd.read_csv(listings_file, header=None)
-df.columns = ['id', 'title', 'text', 'beds', 'date', 'rate', 'price', 'total']
-urls = df.id.tolist()
+
+df.columns = ['id', 'name', 'title', 'city', 'local_city', 'title', 'beds', 'rating', 'num_reviews', 'list_type', 'long', 'lat', 'room_type']
+urls = df.id.astype('str').tolist()
 
 print("found ", len(urls))
 
-path_to_file = "aibnb_corfu_gouvia_reviews.csv"
+path_to_file = "aibnb_corfu_coords_reviews.csv"
 
 #df  = pd.read_csv(path_to_file, header=None)
 #print ("Starting with ", len(df), " properties" )
@@ -29,7 +30,7 @@ num_page = 3
 # default tripadvisor website of hotel or things to do (attraction/monument)
 
 #urls = ["31283658",  "10691883", "652820565764195736", "51516782",]
-urls = [url.split("_")[1] for url in urls]
+#urls = [url.split("_")[1] for url in urls]
 
 
 # if you pass the inputs in the command line
@@ -53,8 +54,9 @@ for url in urls:
     print (url)
     try:
         chrome_options = Options()
+        chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(options=chrome_options)
-        driver.implicitly_wait(5)
+        driver.implicitly_wait(2)
         driver.get("https://www.airbnb.com/rooms/" + url)
         time.sleep(5)
 

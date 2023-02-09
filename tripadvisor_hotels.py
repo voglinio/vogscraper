@@ -28,7 +28,7 @@ num_page = 17
 
 # default tripadvisor website of hotel or things to do (attraction/monument)
 
-urls = ["https://www.tripadvisor.com/Hotels-g189458-zft21371-Corfu_Ionian_Islands-Hotels.html"]
+urls = ["https://www.tripadvisor.com/Hotels-g189458-Corfu_Ionian_Islands-Hotels.html"]
 
 tagakia = ["Excellent", "Very good", "Average", "Poor", "Terrible"]
 
